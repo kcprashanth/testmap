@@ -1,0 +1,92 @@
+{ "CampaignId" : "353811052419002/1406203140526",
+  "CampaignName" : "pg",
+  "DelayBetweenIterations" : 5,
+  "DeviceId" : "353811052419002",
+  "Locale" : "English",
+  "NetParams" : [ { "Param" : "Operator",
+        "TimeStamp" : 1406203140549,
+        "Value" : "40486"
+      },
+      { "Param" : "CID",
+        "TimeStamp" : 1406203140562,
+        "Value" : "60913"
+      },
+      { "Param" : "LAC",
+        "TimeStamp" : 1406203140575,
+        "Value" : "51013"
+      },
+      { "Param" : "PSC",
+        "TimeStamp" : 1406203140588,
+        "Value" : "?"
+      },
+      { "Param" : "RSSI",
+        "TimeStamp" : 1406203140590,
+        "Value" : "-65dBm"
+      },
+      { "Param" : "Data",
+        "TimeStamp" : 1406203140600,
+        "Value" : "WIFI"
+      },
+      { "Param" : "cdmaRSSI",
+        "TimeStamp" : 1406203140602,
+        "Value" : "?"
+      },
+      { "Param" : "cdmaEcNo",
+        "TimeStamp" : 1406203140604,
+        "Value" : "?"
+      },
+      { "Param" : "cdmaSNR",
+        "TimeStamp" : 1406203140613,
+        "Value" : "?"
+      },
+      { "Param" : "cdmaCellID",
+        "TimeStamp" : 1406203140625,
+        "Value" : "?"
+      },
+      { "Param" : "ltePCI",
+        "TimeStamp" : 1406203140634,
+        "Value" : "?"
+      },
+      { "Param" : "lteRSRP",
+        "TimeStamp" : 1406203140636,
+        "Value" : "?"
+      },
+      { "Param" : "lteRSRQ",
+        "TimeStamp" : 1406203140637,
+        "Value" : "?"
+      },
+      { "Param" : "LATITUDE",
+        "TimeStamp" : 1406203140667,
+        "Value" : "0.0"
+      },
+      { "Param" : "LONGITUDE",
+        "TimeStamp" : 1406203140679,
+        "Value" : "0.0"
+      },
+      { "Param" : "RSSI",
+        "TimeStamp" : 1406203147900,
+        "Value" : "-59dBm"
+      },
+      { "Param" : "RSSI",
+        "TimeStamp" : 1406203147903,
+        "Value" : "-59dBm"
+      }
+    ],
+  "NrOfIterations" : 1,
+  "PingTest" : [ { "CampaignId" : "353811052419002/1406203140526",
+        "EndTime" : 1406203149581,
+        "Iteration" : 1,
+        "Lost" : 0,
+        "RTTAvg" : 328,
+        "RTTMax" : 401,
+        "RTTMin" : 302,
+        "Received" : 4,
+        "Sent" : 4,
+        "StartTime" : 1406203145690,
+        "Status" : "OK"
+      } ],
+  "PingTest_Host" : "yahoo.com",
+  "PingTest_ResolvedIPAddress" : "206.190.36.45",
+  "Status" : "COMPLETED"
+}
+
